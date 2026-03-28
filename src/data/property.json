@@ -1,0 +1,17 @@
+{
+  "name": "Buccaneer Inn",
+  "tagline": "St. George Island, Florida",
+  "phone": "(850) 000-0000",
+  "address": "Gorrie Drive, St. George Island, FL",
+  "description": "A beachfront retreat steps from the Gulf of Mexico.",
+  "heroImageUrl": "/images/hero.jpg",
+  "logoUrl": "/images/logo.svg",
+  "bookingUrl": "https://your-booking-link.com",
+  "adminPin": "1234",
+  "theme": {
+    "primary": "#1B3A5C",
+    "accent": "#2ABFBF",
+    "sand": "#F2D9A2",
+    "background": "#FAFAF8"
+  }
+}
