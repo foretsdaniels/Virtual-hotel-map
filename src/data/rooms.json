@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "101",
+    "displayName": "Room 101",
+    "building": "Ground Floor East",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "102",
+    "displayName": "Room 102",
+    "building": "Ground Floor East",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": true,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "103",
+    "displayName": "Room 103",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "104",
+    "displayName": "Room 104",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "105",
+    "displayName": "Room 105",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": true,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "106",
+    "displayName": "Room 106",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "107",
+    "displayName": "Room 107",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "108",
+    "displayName": "Room 108",
+    "building": "Ground Floor East",
+    "roomType": "standard",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "109",
+    "displayName": "Room 109",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "110",
+    "displayName": "Room 110",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "111",
+    "displayName": "Room 111",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "112",
+    "displayName": "Room 112",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "113",
+    "displayName": "Room 113",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "114",
+    "displayName": "Room 114",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "115",
+    "displayName": "Room 115",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "116",
+    "displayName": "Room 116",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "117",
+    "displayName": "Room 117",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "118",
+    "displayName": "Room 118",
+    "building": "Ground Floor East",
+    "roomType": "standard",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "119",
+    "displayName": "Room 119",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "120",
+    "displayName": "Room 120",
+    "building": "Ground Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "201",
+    "displayName": "Room 201",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": true,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "202",
+    "displayName": "Room 202",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "203",
+    "displayName": "Room 203",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "204",
+    "displayName": "Room 204",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "205",
+    "displayName": "Room 205",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "206",
+    "displayName": "Room 206",
+    "building": "Second Floor East",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "207",
+    "displayName": "Room 207",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "208",
+    "displayName": "Room 208",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "209",
+    "displayName": "Room 209",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "210",
+    "displayName": "Room 210",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": [
+      {
+        "id": "210-bedroom",
+        "title": "Bedroom",
+        "splatUrl": "/splats/210/bedroom.splat",
+        "cameraPosition": [
+          0,
+          1.5,
+          3
+        ],
+        "cameraTarget": [
+          0,
+          1,
+          0
+        ],
+        "hotspots": [
+          {
+            "id": "hs-1",
+            "yaw": 20,
+            "pitch": -10,
+            "title": "65\" Smart TV",
+            "description": "Samsung 4K Smart TV with streaming apps.",
+            "icon": "tv"
+          },
+          {
+            "id": "hs-2",
+            "yaw": 180,
+            "pitch": 5,
+            "title": "Gulf View Balcony",
+            "description": "Step outside for unobstructed views of the Gulf of Mexico.",
+            "icon": "waves"
+          }
+        ]
+      },
+      {
+        "id": "210-bathroom",
+        "title": "Bathroom",
+        "splatUrl": "/splats/210/bathroom.splat",
+        "cameraPosition": [
+          0,
+          1.5,
+          2
+        ],
+        "cameraTarget": [
+          0,
+          1,
+          0
+        ],
+        "hotspots": []
+      },
+      {
+        "id": "210-balcony",
+        "title": "Balcony View",
+        "splatUrl": "/splats/210/balcony.splat",
+        "cameraPosition": [
+          0,
+          1.5,
+          2
+        ],
+        "cameraTarget": [
+          0,
+          0.5,
+          -1
+        ],
+        "hotspots": [
+          {
+            "id": "hs-3",
+            "yaw": 0,
+            "pitch": 0,
+            "title": "Gulf of Mexico",
+            "description": "Direct Gulf front views from your private balcony.",
+            "icon": "sun"
+          }
+        ]
+      },
+      {
+        "id": "210-kitchenette",
+        "title": "Kitchenette",
+        "splatUrl": "/splats/210/kitchenette.splat",
+        "cameraPosition": [
+          0,
+          1.5,
+          2.5
+        ],
+        "cameraTarget": [
+          0,
+          1,
+          0
+        ],
+        "hotspots": []
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "displayName": "Room 211",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "212",
+    "displayName": "Room 212",
+    "building": "Second Floor East",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "213",
+    "displayName": "Room 213",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "214",
+    "displayName": "Room 214",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "215",
+    "displayName": "Room 215",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "216",
+    "displayName": "Room 216",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "217",
+    "displayName": "Room 217",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "218",
+    "displayName": "Room 218",
+    "building": "Second Floor East",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "219",
+    "displayName": "Room 219",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "220",
+    "displayName": "Room 220",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "221",
+    "displayName": "Room 221",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "222",
+    "displayName": "Room 222",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "223",
+    "displayName": "Room 223",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "224",
+    "displayName": "Room 224",
+    "building": "Second Floor East",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "301",
+    "displayName": "Room 301",
+    "building": "Ground Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "302",
+    "displayName": "Room 302",
+    "building": "Ground Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "303",
+    "displayName": "Room 303",
+    "building": "Ground Floor West",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": true,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "304",
+    "displayName": "Room 304",
+    "building": "Ground Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "305",
+    "displayName": "Room 305",
+    "building": "Ground Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "306",
+    "displayName": "Room 306",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "307",
+    "displayName": "Room 307",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "308",
+    "displayName": "Room 308",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "309",
+    "displayName": "Room 309",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "310",
+    "displayName": "Room 310",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "311",
+    "displayName": "Room 311",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "312",
+    "displayName": "Room 312",
+    "building": "Ground Floor West",
+    "roomType": "standard",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "313",
+    "displayName": "Room 313",
+    "building": "Ground Floor West",
+    "roomType": "standard",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "314",
+    "displayName": "Room 314",
+    "building": "Ground Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "315",
+    "displayName": "Room 315",
+    "building": "Ground Floor West",
+    "roomType": "deluxe",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "316",
+    "displayName": "Room 316",
+    "building": "Ground Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "317",
+    "displayName": "Room 317",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "318",
+    "displayName": "Room 318",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "319",
+    "displayName": "Room 319",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "320",
+    "displayName": "Room 320",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "321",
+    "displayName": "Room 321",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "322",
+    "displayName": "Room 322",
+    "building": "Ground Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "401",
+    "displayName": "Room 401",
+    "building": "Second Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "402",
+    "displayName": "Room 402",
+    "building": "Second Floor West",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": true,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "403",
+    "displayName": "Room 403",
+    "building": "Second Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": true,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning",
+      "Pet Friendly"
+    ],
+    "tours": []
+  },
+  {
+    "id": "404",
+    "displayName": "Room 404",
+    "building": "Second Floor West",
+    "roomType": "kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "405",
+    "displayName": "Room 405",
+    "building": "Second Floor West",
+    "roomType": "kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "406",
+    "displayName": "Room 406",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "407",
+    "displayName": "Room 407",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "408",
+    "displayName": "Room 408",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "409",
+    "displayName": "Room 409",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "410",
+    "displayName": "Room 410",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "411",
+    "displayName": "Room 411",
+    "building": "Second Floor West",
+    "roomType": "gulf_front",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "412",
+    "displayName": "Room 412",
+    "building": "Second Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "413",
+    "displayName": "Room 413",
+    "building": "Second Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "414",
+    "displayName": "Room 414",
+    "building": "Second Floor West",
+    "roomType": "deluxe",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "415",
+    "displayName": "Room 415",
+    "building": "Second Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "416",
+    "displayName": "Room 416",
+    "building": "Second Floor West",
+    "roomType": "deluxe",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Dinette Booth",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "417",
+    "displayName": "Room 417",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "418",
+    "displayName": "Room 418",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "419",
+    "displayName": "Room 419",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "420",
+    "displayName": "Room 420",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "421",
+    "displayName": "Room 421",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "422",
+    "displayName": "Room 422",
+    "building": "Second Floor West",
+    "roomType": "gulf_front_kitchenette",
+    "bedType": "two_queens",
+    "petFriendly": false,
+    "amenities": [
+      "Two Queen Beds",
+      "Gulf View Balcony",
+      "Full Kitchenette",
+      "Microwave",
+      "Mini Fridge",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "501",
+    "displayName": "Grand Suite 501",
+    "building": "Second Floor Suite",
+    "roomType": "grand_suite",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Separate Living Area",
+      "Full Kitchen",
+      "Premium Linens",
+      "Soaking Tub",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  },
+  {
+    "id": "502",
+    "displayName": "Grand Suite 502",
+    "building": "Second Floor Suite",
+    "roomType": "grand_suite",
+    "bedType": "king",
+    "petFriendly": false,
+    "amenities": [
+      "King Bed",
+      "Separate Living Area",
+      "Full Kitchen",
+      "Premium Linens",
+      "Soaking Tub",
+      "65\" Smart TV",
+      "Coffee Maker",
+      "Private Bathroom",
+      "Free WiFi",
+      "Air Conditioning"
+    ],
+    "tours": []
+  }
+]

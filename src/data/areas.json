@@ -1,0 +1,60 @@
+[
+  {
+    "id": "pool",
+    "displayName": "Pool",
+    "category": "amenity",
+    "description": "Heated outdoor pool steps from the beach.",
+    "amenities": ["Heated Pool", "Pool Chairs", "Towel Service", "Steps to Beach"],
+    "tours": [
+      {
+        "id": "pool-main",
+        "title": "Pool Area",
+        "splatUrl": "/splats/areas/pool.splat",
+        "cameraPosition": [0, 1.5, 3],
+        "cameraTarget": [0, 0, 0],
+        "hotspots": [
+          {
+            "id": "hs-pool-1",
+            "yaw": 90,
+            "pitch": -5,
+            "title": "Beach Access",
+            "description": "Direct beach access just 50 feet away.",
+            "icon": "waves"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patio",
+    "displayName": "Beach Patio",
+    "category": "amenity",
+    "description": "Oceanfront patio with direct beach access.",
+    "amenities": ["Beachfront Location", "Outdoor Seating", "Gulf Views"],
+    "tours": []
+  },
+  {
+    "id": "picnic",
+    "displayName": "Picnic Area",
+    "category": "amenity",
+    "description": "Shaded picnic area between buildings.",
+    "amenities": ["Picnic Tables", "BBQ Grills", "Shaded Seating"],
+    "tours": []
+  },
+  {
+    "id": "banquet",
+    "displayName": "Banquet Room",
+    "category": "event",
+    "description": "Private event and gathering space.",
+    "amenities": ["Private Room", "Event Seating", "AV Equipment"],
+    "tours": []
+  },
+  {
+    "id": "front_desk",
+    "displayName": "Lobby & Front Desk",
+    "category": "service",
+    "description": "24-hour front desk and guest services.",
+    "amenities": ["24-Hour Front Desk", "Ice Machine", "Guest Concierge"],
+    "tours": []
+  }
+]

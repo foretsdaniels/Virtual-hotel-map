@@ -1,0 +1,2106 @@
+{
+  "groundFloor": {
+    "viewBox": "0 0 900 620",
+    "regions": [
+      {
+        "entityType": "room",
+        "entityId": "120",
+        "svgPath": "M 600 120 L 650 120 L 650 158 L 600 158 Z",
+        "label": "120",
+        "labelX": 625.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "119",
+        "svgPath": "M 600 160 L 650 160 L 650 198 L 600 198 Z",
+        "label": "119",
+        "labelX": 625.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "117",
+        "svgPath": "M 600 200 L 650 200 L 650 238 L 600 238 Z",
+        "label": "117",
+        "labelX": 625.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "116",
+        "svgPath": "M 600 240 L 650 240 L 650 278 L 600 278 Z",
+        "label": "116",
+        "labelX": 625.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "115",
+        "svgPath": "M 600 280 L 650 280 L 650 318 L 600 318 Z",
+        "label": "115",
+        "labelX": 625.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "114",
+        "svgPath": "M 600 320 L 650 320 L 650 358 L 600 358 Z",
+        "label": "114",
+        "labelX": 625.0,
+        "labelY": 339.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "113",
+        "svgPath": "M 600 360 L 650 360 L 650 398 L 600 398 Z",
+        "label": "113",
+        "labelX": 625.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "112",
+        "svgPath": "M 600 400 L 650 400 L 650 438 L 600 438 Z",
+        "label": "112",
+        "labelX": 625.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "111",
+        "svgPath": "M 600 440 L 650 440 L 650 478 L 600 478 Z",
+        "label": "111",
+        "labelX": 625.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "110",
+        "svgPath": "M 652 120 L 702 120 L 702 158 L 652 158 Z",
+        "label": "110",
+        "labelX": 677.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "109",
+        "svgPath": "M 652 160 L 702 160 L 702 198 L 652 198 Z",
+        "label": "109",
+        "labelX": 677.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "107",
+        "svgPath": "M 652 200 L 702 200 L 702 238 L 652 238 Z",
+        "label": "107",
+        "labelX": 677.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "106",
+        "svgPath": "M 652 240 L 702 240 L 702 278 L 652 278 Z",
+        "label": "106",
+        "labelX": 677.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "105",
+        "svgPath": "M 652 280 L 702 280 L 702 318 L 652 318 Z",
+        "label": "105",
+        "labelX": 677.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "104",
+        "svgPath": "M 652 320 L 702 320 L 702 358 L 652 358 Z",
+        "label": "104",
+        "labelX": 677.0,
+        "labelY": 339.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "103",
+        "svgPath": "M 652 360 L 702 360 L 702 398 L 652 398 Z",
+        "label": "103",
+        "labelX": 677.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "322",
+        "svgPath": "M 198 120 L 248 120 L 248 158 L 198 158 Z",
+        "label": "322",
+        "labelX": 223.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "321",
+        "svgPath": "M 198 160 L 248 160 L 248 198 L 198 198 Z",
+        "label": "321",
+        "labelX": 223.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "320",
+        "svgPath": "M 198 200 L 248 200 L 248 238 L 198 238 Z",
+        "label": "320",
+        "labelX": 223.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "319",
+        "svgPath": "M 198 240 L 248 240 L 248 278 L 198 278 Z",
+        "label": "319",
+        "labelX": 223.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "318",
+        "svgPath": "M 198 280 L 248 280 L 248 318 L 198 318 Z",
+        "label": "318",
+        "labelX": 223.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "317",
+        "svgPath": "M 198 320 L 248 320 L 248 358 L 198 358 Z",
+        "label": "317",
+        "labelX": 223.0,
+        "labelY": 339.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "316",
+        "svgPath": "M 198 360 L 248 360 L 248 398 L 198 398 Z",
+        "label": "316",
+        "labelX": 223.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "315",
+        "svgPath": "M 198 400 L 248 400 L 248 438 L 198 438 Z",
+        "label": "315",
+        "labelX": 223.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "314",
+        "svgPath": "M 198 440 L 248 440 L 248 478 L 198 478 Z",
+        "label": "314",
+        "labelX": 223.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "302",
+        "svgPath": "M 198 480 L 248 480 L 248 518 L 198 518 Z",
+        "label": "302",
+        "labelX": 223.0,
+        "labelY": 499.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "301",
+        "svgPath": "M 198 520 L 248 520 L 248 558 L 198 558 Z",
+        "label": "301",
+        "labelX": 223.0,
+        "labelY": 539.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "311",
+        "svgPath": "M 250 120 L 300 120 L 300 158 L 250 158 Z",
+        "label": "311",
+        "labelX": 275.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "310",
+        "svgPath": "M 250 160 L 300 160 L 300 198 L 250 198 Z",
+        "label": "310",
+        "labelX": 275.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "309",
+        "svgPath": "M 250 200 L 300 200 L 300 238 L 250 238 Z",
+        "label": "309",
+        "labelX": 275.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "308",
+        "svgPath": "M 250 240 L 300 240 L 300 278 L 250 278 Z",
+        "label": "308",
+        "labelX": 275.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "307",
+        "svgPath": "M 250 280 L 300 280 L 300 318 L 250 318 Z",
+        "label": "307",
+        "labelX": 275.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "306",
+        "svgPath": "M 250 320 L 300 320 L 300 358 L 250 358 Z",
+        "label": "306",
+        "labelX": 275.0,
+        "labelY": 339.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "305",
+        "svgPath": "M 250 360 L 300 360 L 300 398 L 250 398 Z",
+        "label": "305",
+        "labelX": 275.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "304",
+        "svgPath": "M 250 400 L 300 400 L 300 438 L 250 438 Z",
+        "label": "304",
+        "labelX": 275.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "303",
+        "svgPath": "M 250 440 L 300 440 L 300 478 L 250 478 Z",
+        "label": "303",
+        "labelX": 275.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "101",
+        "svgPath": "M 600 400 L 650 400 L 650 438 L 600 438 Z",
+        "label": "101",
+        "labelX": 625.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "102",
+        "svgPath": "M 600 440 L 650 440 L 650 478 L 600 478 Z",
+        "label": "102",
+        "labelX": 625.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      }
+    ],
+    "areas": [
+      {
+        "entityType": "area",
+        "entityId": "pool",
+        "svgPath": "M 410 130 L 550 130 L 550 310 L 410 310 Z",
+        "label": "POOL",
+        "labelX": 480,
+        "labelY": 220,
+        "defaultStyle": {
+          "fill": "#BAE6FD",
+          "stroke": "#0284C7",
+          "strokeWidth": 2
+        },
+        "highlightStyle": {
+          "fill": "#7DD3FC",
+          "stroke": "#0369A1",
+          "strokeWidth": 3
+        }
+      },
+      {
+        "entityType": "area",
+        "entityId": "patio",
+        "svgPath": "M 370 40 L 590 40 L 590 100 L 370 100 Z",
+        "label": "PATIO",
+        "labelX": 480,
+        "labelY": 70,
+        "defaultStyle": {
+          "fill": "#D1FAE5",
+          "stroke": "#059669",
+          "strokeWidth": 2
+        },
+        "highlightStyle": {
+          "fill": "#A7F3D0",
+          "stroke": "#047857",
+          "strokeWidth": 3
+        }
+      },
+      {
+        "entityType": "area",
+        "entityId": "picnic",
+        "svgPath": "M 410 320 L 550 320 L 550 400 L 410 400 Z",
+        "label": "PICNIC AREA",
+        "labelX": 480,
+        "labelY": 360,
+        "defaultStyle": {
+          "fill": "#D1FAE5",
+          "stroke": "#059669",
+          "strokeWidth": 2
+        },
+        "highlightStyle": {
+          "fill": "#A7F3D0",
+          "stroke": "#047857",
+          "strokeWidth": 3
+        }
+      },
+      {
+        "entityType": "area",
+        "entityId": "banquet",
+        "svgPath": "M 410 420 L 550 420 L 550 500 L 410 500 Z",
+        "label": "BANQUET ROOM",
+        "labelX": 480,
+        "labelY": 460,
+        "defaultStyle": {
+          "fill": "#EDE9FE",
+          "stroke": "#7C3AED",
+          "strokeWidth": 2
+        },
+        "highlightStyle": {
+          "fill": "#DDD6FE",
+          "stroke": "#6D28D9",
+          "strokeWidth": 3
+        }
+      },
+      {
+        "entityType": "area",
+        "entityId": "front_desk",
+        "svgPath": "M 600 480 L 702 480 L 702 530 L 600 530 Z",
+        "label": "FRONT DESK",
+        "labelX": 651,
+        "labelY": 505,
+        "defaultStyle": {
+          "fill": "#FEF3C7",
+          "stroke": "#D97706",
+          "strokeWidth": 2
+        },
+        "highlightStyle": {
+          "fill": "#FDE68A",
+          "stroke": "#B45309",
+          "strokeWidth": 3
+        }
+      }
+    ],
+    "decorations": [
+      {
+        "type": "label",
+        "svgPath": "",
+        "label": "Beach Front",
+        "style": {
+          "fill": "#1B3A5C",
+          "stroke": "none",
+          "strokeWidth": 0
+        }
+      },
+      {
+        "type": "label",
+        "svgPath": "",
+        "label": "PARKING",
+        "style": {
+          "fill": "#6B7280",
+          "stroke": "none",
+          "strokeWidth": 0
+        }
+      }
+    ]
+  },
+  "secondFloor": {
+    "viewBox": "0 0 900 700",
+    "regions": [
+      {
+        "entityType": "room",
+        "entityId": "224",
+        "svgPath": "M 600 80 L 650 80 L 650 118 L 600 118 Z",
+        "label": "224",
+        "labelX": 625.0,
+        "labelY": 99.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "223",
+        "svgPath": "M 600 120 L 650 120 L 650 158 L 600 158 Z",
+        "label": "223",
+        "labelX": 625.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "222",
+        "svgPath": "M 600 160 L 650 160 L 650 198 L 600 198 Z",
+        "label": "222",
+        "labelX": 625.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "221",
+        "svgPath": "M 600 200 L 650 200 L 650 238 L 600 238 Z",
+        "label": "221",
+        "labelX": 625.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "220",
+        "svgPath": "M 600 240 L 650 240 L 650 278 L 600 278 Z",
+        "label": "220",
+        "labelX": 625.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "219",
+        "svgPath": "M 600 280 L 650 280 L 650 318 L 600 318 Z",
+        "label": "219",
+        "labelX": 625.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "212",
+        "svgPath": "M 652 80 L 702 80 L 702 118 L 652 118 Z",
+        "label": "212",
+        "labelX": 677.0,
+        "labelY": 99.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "211",
+        "svgPath": "M 652 120 L 702 120 L 702 158 L 652 158 Z",
+        "label": "211",
+        "labelX": 677.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "210",
+        "svgPath": "M 652 160 L 702 160 L 702 198 L 652 198 Z",
+        "label": "210",
+        "labelX": 677.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "209",
+        "svgPath": "M 652 200 L 702 200 L 702 238 L 652 238 Z",
+        "label": "209",
+        "labelX": 677.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "208",
+        "svgPath": "M 652 240 L 702 240 L 702 278 L 652 278 Z",
+        "label": "208",
+        "labelX": 677.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "207",
+        "svgPath": "M 652 280 L 702 280 L 702 318 L 652 318 Z",
+        "label": "207",
+        "labelX": 677.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "218",
+        "svgPath": "M 600 360 L 650 360 L 650 398 L 600 398 Z",
+        "label": "218",
+        "labelX": 625.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "217",
+        "svgPath": "M 600 400 L 650 400 L 650 438 L 600 438 Z",
+        "label": "217",
+        "labelX": 625.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "216",
+        "svgPath": "M 600 440 L 650 440 L 650 478 L 600 478 Z",
+        "label": "216",
+        "labelX": 625.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "215",
+        "svgPath": "M 600 480 L 650 480 L 650 518 L 600 518 Z",
+        "label": "215",
+        "labelX": 625.0,
+        "labelY": 499.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "214",
+        "svgPath": "M 600 520 L 650 520 L 650 558 L 600 558 Z",
+        "label": "214",
+        "labelX": 625.0,
+        "labelY": 539.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "213",
+        "svgPath": "M 600 560 L 650 560 L 650 598 L 600 598 Z",
+        "label": "213",
+        "labelX": 625.0,
+        "labelY": 579.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "206",
+        "svgPath": "M 652 360 L 702 360 L 702 398 L 652 398 Z",
+        "label": "206",
+        "labelX": 677.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "205",
+        "svgPath": "M 652 400 L 702 400 L 702 438 L 652 438 Z",
+        "label": "205",
+        "labelX": 677.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "204",
+        "svgPath": "M 652 440 L 702 440 L 702 478 L 652 478 Z",
+        "label": "204",
+        "labelX": 677.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "203",
+        "svgPath": "M 652 480 L 702 480 L 702 518 L 652 518 Z",
+        "label": "203",
+        "labelX": 677.0,
+        "labelY": 499.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "202",
+        "svgPath": "M 652 520 L 702 520 L 702 558 L 652 558 Z",
+        "label": "202",
+        "labelX": 677.0,
+        "labelY": 539.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "201",
+        "svgPath": "M 652 560 L 702 560 L 702 598 L 652 598 Z",
+        "label": "201",
+        "labelX": 677.0,
+        "labelY": 579.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "422",
+        "svgPath": "M 198 80 L 248 80 L 248 118 L 198 118 Z",
+        "label": "422",
+        "labelX": 223.0,
+        "labelY": 99.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "421",
+        "svgPath": "M 198 120 L 248 120 L 248 158 L 198 158 Z",
+        "label": "421",
+        "labelX": 223.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "420",
+        "svgPath": "M 198 160 L 248 160 L 248 198 L 198 198 Z",
+        "label": "420",
+        "labelX": 223.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "419",
+        "svgPath": "M 198 200 L 248 200 L 248 238 L 198 238 Z",
+        "label": "419",
+        "labelX": 223.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "418",
+        "svgPath": "M 198 240 L 248 240 L 248 278 L 198 278 Z",
+        "label": "418",
+        "labelX": 223.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "417",
+        "svgPath": "M 198 280 L 248 280 L 248 318 L 198 318 Z",
+        "label": "417",
+        "labelX": 223.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#6EE7B7",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "411",
+        "svgPath": "M 250 80 L 300 80 L 300 118 L 250 118 Z",
+        "label": "411",
+        "labelX": 275.0,
+        "labelY": 99.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "410",
+        "svgPath": "M 250 120 L 300 120 L 300 158 L 250 158 Z",
+        "label": "410",
+        "labelX": 275.0,
+        "labelY": 139.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "409",
+        "svgPath": "M 250 160 L 300 160 L 300 198 L 250 198 Z",
+        "label": "409",
+        "labelX": 275.0,
+        "labelY": 179.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "408",
+        "svgPath": "M 250 200 L 300 200 L 300 238 L 250 238 Z",
+        "label": "408",
+        "labelX": 275.0,
+        "labelY": 219.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "407",
+        "svgPath": "M 250 240 L 300 240 L 300 278 L 250 278 Z",
+        "label": "407",
+        "labelX": 275.0,
+        "labelY": 259.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "406",
+        "svgPath": "M 250 280 L 300 280 L 300 318 L 250 318 Z",
+        "label": "406",
+        "labelX": 275.0,
+        "labelY": 299.0,
+        "defaultStyle": {
+          "fill": "#2ABFBF",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "416",
+        "svgPath": "M 198 360 L 248 360 L 248 398 L 198 398 Z",
+        "label": "416",
+        "labelX": 223.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "415",
+        "svgPath": "M 198 400 L 248 400 L 248 438 L 198 438 Z",
+        "label": "415",
+        "labelX": 223.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "414",
+        "svgPath": "M 198 440 L 248 440 L 248 478 L 198 478 Z",
+        "label": "414",
+        "labelX": 223.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "413",
+        "svgPath": "M 198 480 L 248 480 L 248 518 L 198 518 Z",
+        "label": "413",
+        "labelX": 223.0,
+        "labelY": 499.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "412",
+        "svgPath": "M 198 520 L 248 520 L 248 558 L 198 558 Z",
+        "label": "412",
+        "labelX": 223.0,
+        "labelY": 539.0,
+        "defaultStyle": {
+          "fill": "#818CF8",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "405",
+        "svgPath": "M 250 360 L 300 360 L 300 398 L 250 398 Z",
+        "label": "405",
+        "labelX": 275.0,
+        "labelY": 379.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "404",
+        "svgPath": "M 250 400 L 300 400 L 300 438 L 250 438 Z",
+        "label": "404",
+        "labelX": 275.0,
+        "labelY": 419.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "403",
+        "svgPath": "M 250 440 L 300 440 L 300 478 L 250 478 Z",
+        "label": "403",
+        "labelX": 275.0,
+        "labelY": 459.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "402",
+        "svgPath": "M 250 480 L 300 480 L 300 518 L 250 518 Z",
+        "label": "402",
+        "labelX": 275.0,
+        "labelY": 499.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "401",
+        "svgPath": "M 250 520 L 300 520 L 300 558 L 250 558 Z",
+        "label": "401",
+        "labelX": 275.0,
+        "labelY": 539.0,
+        "defaultStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "501",
+        "svgPath": "M 400 520 L 470 520 L 470 570 L 400 570 Z",
+        "label": "501",
+        "labelX": 435.0,
+        "labelY": 545.0,
+        "defaultStyle": {
+          "fill": "#F59E0B",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      },
+      {
+        "entityType": "room",
+        "entityId": "502",
+        "svgPath": "M 475 520 L 545 520 L 545 570 L 475 570 Z",
+        "label": "502",
+        "labelX": 510.0,
+        "labelY": 545.0,
+        "defaultStyle": {
+          "fill": "#F59E0B",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 1.5
+        },
+        "highlightStyle": {
+          "fill": "#F2D9A2",
+          "stroke": "#1B3A5C",
+          "strokeWidth": 2.5
+        },
+        "filteredOutStyle": {
+          "fill": "#e5e7eb",
+          "stroke": "#9ca3af",
+          "strokeWidth": 1
+        }
+      }
+    ],
+    "areas": [],
+    "decorations": []
+  }
+}
